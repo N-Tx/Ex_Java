@@ -1,3 +1,5 @@
+package ListaEx;
+
 import java.util.Scanner;
 
 public class ex01 {
